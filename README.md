@@ -17,11 +17,9 @@ Just give the `spark_print` function a list of numbers.
     >>> spark_print([0,30,55,80,33,150])
     ▁▂▃▅▂▇
 
-Invoke help with `spark -h`.
 
 ## ▇▁ ⟦⟧ ▇▁
 
-This is a [@holman][holman] joint.
 
 [bin]:      https://github.com/holman/spark/blob/master/spark
 [spark]:     https://github.com/holman/spark
